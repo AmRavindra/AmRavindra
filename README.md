@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently learninig
+Hello! I’m a passionate **QA Tester** with a focus on manual testing, currently expanding my skills in **C#, Postman, and Rest Assured**. I enjoy learning new technologies and am dedicated to improving my craft.
+
+I’m currently working on testing both **web-based and Windows applications**, where I apply my attention to detail and analytical thinking to ensure the highest quality standards are met. **My ultimate goal is to transition into a full-time developer role, and I am actively learning and building the skills necessary to achieve that**.
+
+As I continue to grow in my testing career, I am excited about taking on new challenges, learning from the industry, and working on projects that push me closer to my goal of becoming a skilled developer.
+
+Feel free to connect with me if you have any opportunities or want to discuss new ideas!
 
 
 ## 🌐 Socials:
